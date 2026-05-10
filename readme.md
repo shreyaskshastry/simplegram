@@ -24,3 +24,7 @@ Usage Instructions
 - Run the command `docker compose up -d`
 - Head to `localhost:5173`to access the simplegram UI
 - To bring down the app , Run the command `docker compose down`
+
+API Docs
+- Run the App
+- http://localhost:8000/docs
